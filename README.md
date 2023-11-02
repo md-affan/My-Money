@@ -1,4 +1,4 @@
-Solution for Geektrust Backend Challenge - [MyMoney](https://github.com/md-affan/My-Money/edit/main/README.md#:~:text=Geektrust%20Backend%20Challenge%20%2D-,MyMoney,-Problem%20Statement%20MyMoney)
+Solution for Geektrust Backend Challenge - [MyMoney](https://www.geektrust.com/coding/detailed/my-money)
 
 Problem Statement
 MyMoney platform lets investors consolidated portfolio value across equity, debt, and gold. We need to ensure that the desired allocation percentages are equal to the actual percentages invested. The desired allocation percentage should be derived from the initial allocation made.
@@ -15,7 +15,7 @@ Rebalanced amount of each month if applicable.
 The supported commands are:
 ALLOCATE, SIP, CHANGE, BALANCE, REBALANCE
 
-[Complete problem statement](https://github.com/md-affan/My-Money/edit/main/README.md#:~:text=Geektrust%20Backend%20Challenge%20%2D-,MyMoney,-Problem%20Statement%20MyMoney)
+[Complete problem statement](https://www.geektrust.com/coding/detailed/my-money)
 
 Assumptions
 From Problem Statement
