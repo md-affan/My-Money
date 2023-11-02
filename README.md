@@ -18,7 +18,7 @@ ALLOCATE, SIP, CHANGE, BALANCE, REBALANCE
 [Complete problem statement](https://www.geektrust.com/coding/detailed/my-money)
 
 Assumptions
-From Problem Statement
+From Problem Statement : 
 The money allocated in equity, debt and gold funds.
 Monthly SIP payments.
 Monthly change rate (loss or growth) for each type of fund.
