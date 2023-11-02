@@ -28,7 +28,7 @@ From Problem Statement :
 2. Monthly SIP payments.
 3. Monthly change rate (loss or growth) for each type of fund.
    
-Additional Assumptions Made
+Additional Assumptions Made : 
 1. Only 3 allocation class are currently available.
 2. The default input order for asset class is - EQUITY, DEBT, GOLD.
 3. All the inputs must be explicitly provided, no default value as 0 is used.
