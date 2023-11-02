@@ -23,13 +23,13 @@ public class App {
                     
                     case "ALLOCATE":
                     {
-						r.allocate(Integer.parseInt(tokens.get(1)), Integer.parseInt(tokens.get(2)), Integer.parseInt(tokens.get(3)));
+			r.allocate(Integer.parseInt(tokens.get(1)), Integer.parseInt(tokens.get(2)), Integer.parseInt(tokens.get(3)));
                     }
                     break;
 
                     case "SIP":
                     {
-						r.set_Sip(Integer.parseInt(tokens.get(1)), Integer.parseInt(tokens.get(2)), Integer.parseInt(tokens.get(3)));
+			r.set_Sip(Integer.parseInt(tokens.get(1)), Integer.parseInt(tokens.get(2)), Integer.parseInt(tokens.get(3)));
                     }
                     break;
 
